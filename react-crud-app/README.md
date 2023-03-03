@@ -8,7 +8,7 @@
 
 ```bash
 # install project
-$ git clone https://github.com/bhagawatmishra/react-crud-app.git
+$ git clone https://github.com/MukulUpadhyaya/CRUD-App.git
 
 # open app directory
 $ cd react-crud-app
